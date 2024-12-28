@@ -7,8 +7,7 @@
 }
 
 .cardItem {
-  border: 1px solid #646cff;
-  border-radius: 8px;
+  border: 1px solid green;
   padding: 4px;
   display: flex;
   flex-direction: column;

@@ -1,9 +1,8 @@
 .noResult {
   text-align: center;
   padding: 50px;
-  border: 1px solid #535bf2;
-  border-radius: 8px;
+  border: 1px solid green;
   text-transform: uppercase;
-  color: #535bf2;
+  color: green;
   margin-top: 50px;
 }
