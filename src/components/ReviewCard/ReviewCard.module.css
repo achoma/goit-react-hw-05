@@ -1,7 +1,7 @@
 .reviewTitle {
   text-align: center;
   margin-block: 20px;
-  color: #646cff;
+  color: green;
 }
 .reviewContentWrapper {
   display: flex;
@@ -9,13 +9,11 @@
   flex-direction: row-reverse;
 }
 .reviewImage {
-  border-radius: 8px;
   width: 20%;
 }
 .reviewContent {
   padding: 16px;
-  border: 1px solid #646cff;
-  border-radius: 8px;
+  border: 1px solid green;
   flex-grow: 1;
 }
 .reviewRating {
@@ -24,7 +22,7 @@
 }
 .reviewRatingValue {
   margin-left: 10px;
-  color: #646cff;
+  color: green;
 }
 .reviewDescription {
   color: silver;
